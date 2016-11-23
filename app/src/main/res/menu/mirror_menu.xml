@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuNone"
+        android:title="None" />
+
+    <item android:id="@+id/menuXAxis"
+        android:title="X Axis" />
+
+    <item android:id="@+id/menuYAxis"
+        android:title="Y Axis" />
+
+    <item android:id="@+id/menuDiagonal"
+        android:title="Diagonal" />
+
+    <item android:id="@+id/menuAll"
+        android:title="All" />
+
+
+
+</menu>
